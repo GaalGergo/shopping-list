@@ -1,0 +1,8 @@
+target/
+.classpath
+.settings/
+.project
+.metadata/
+
+# Default ignored files
+/workspace.xml
